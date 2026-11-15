@@ -180,8 +180,8 @@ MonoBehaviour:
   titleFontSize: 52
   headingFontSize: 30
   titleInstructionsFontSize: 36
-  bodyFontSize: 36
-  smallFontSize: 30
+  bodyFontSize: 30
+  smallFontSize: 22
   buttonFontSize: 26
   popupFontSize: 30
   titleSubtitle: Travel northward through the Arctic Ocean's past, present, and future!
